@@ -8,4 +8,5 @@
 > - a rapid development environment for collaborative, multidisciplinary projects;
 > - an interface to existing numerical algorithms and code written in C, C++, and FORTRAN; and
 > - the ability to painlessly work with large nonstandard data sets.
+>
 > With NetworkX you can load and store networks in standard and nonstandard data formats, generate many types of random and classic networks, analyze network structure, > build network models, design new network algorithms, draw networks, and much more.
